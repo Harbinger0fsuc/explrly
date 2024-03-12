@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Gear",
+        "image": "https://i.ibb.co/nDs7YqS/pic-cat-01.png",
+        "isFeatured": true
+    },
+    {
+        "name": "Lifestyle",
+        "image": "https://i.ibb.co/zS5PnPr/pic-cat-02.png",
+        "isFeatured": true
+    },
+    {
+        "name": "Local",
+        "image": "https://i.ibb.co/DMLCZB3/pic-cat-03.png",
+        "isFeatured": true
+    },
+    {
+        "name": "How-to",
+        "image": "https://i.ibb.co/4m9M7Cr/pic-cat-04.png",
+        "isFeatured": true
+    },
+    {
+        "name": "Activities",
+        "image": "https://i.ibb.co/FW14QBS/pic-cat-05.png",
+        "isFeatured": true
+    },
+    {
+        "name": "Company News",
+        "image": "https://i.ibb.co/FW14QBS/pic-cat-05.png",
+        "isFeatured": false
+    }
+]

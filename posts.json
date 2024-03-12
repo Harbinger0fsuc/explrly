@@ -1,0 +1,62 @@
+[
+    {
+        "image": "https://i.ibb.co/nDs7YqS/pic-cat-01.png",
+        "title": "Aliquam lobortis nec neque sit se set cost amet sagittisuisque.",
+        "excerpt": "Pellentesque condimentum interdum enim, porttitor ser auctor dui semper vel. Ut ullamcorper sapien eu ligula facilisis, interdum dapibus dui.",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p><h2>Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nun.</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p>",
+        "categories": ["Lifestyle", "Gear"],
+        "isFeatured": false,
+        "author": "Andrew Kalagen",
+        "authorImage": "https://i.ibb.co/nDs7YqS/pic-cat-01.png"
+    },
+    {
+        "image": "https://i.ibb.co/zS5PnPr/pic-cat-02.png",
+        "title": "22Aliquam lobortis nec neque sit se set cost amet sagittisuisque.",
+        "excerpt": "22Pellentesque condimentum interdum enim, porttitor ser auctor dui semper vel. Ut ullamcorper sapien eu ligula facilisis, interdum dapibus dui.",
+        "content": "<p>22Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p><h2>Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nun.</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p>",
+        "categories": ["Lifestyle", "Gear"],
+        "isFeatured": false,
+        "author": "22Andrew Kalagen",
+        "authorImage": "https://i.ibb.co/zS5PnPr/pic-cat-02.png"
+    },
+    {
+        "image": "https://i.ibb.co/DMLCZB3/pic-cat-03.png",
+        "title": "33Aliquam lobortis nec neque sit se set cost amet sagittisuisque.",
+        "excerpt": "33Pellentesque condimentum interdum enim, porttitor ser auctor dui semper vel. Ut ullamcorper sapien eu ligula facilisis, interdum dapibus dui.",
+        "content": "<p>33Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p><h2>Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nun.</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p>",
+        "categories": ["Lifestyle", "Gear"],
+        "isFeatured": false,
+        "author": "Andrew Kalagen",
+        "authorImage": "https://i.ibb.co/DMLCZB3/pic-cat-03.png"
+    },
+    {
+        "image": "https://i.ibb.co/4m9M7Cr/pic-cat-04.png",
+        "title": "44Aliquam lobortis nec neque sit se set cost amet sagittisuisque.",
+        "excerpt": "44Pellentesque condimentum interdum enim, porttitor ser auctor dui semper vel. Ut ullamcorper sapien eu ligula facilisis, interdum dapibus dui.",
+        "content": "<p>44Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p><h2>Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nun.</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p>",
+        "categories": ["Lifestyle", "Gear"],
+        "isFeatured": false,
+        "author": "44Andrew Kalagen",
+        "authorImage": "https://i.ibb.co/4m9M7Cr/pic-cat-04.png"
+    },
+    {
+        "image": "https://i.ibb.co/FW14QBS/pic-cat-05.png",
+        "title": "55Aliquam lobortis nec neque sit se set cost amet sagittisuisque.",
+        "excerpt": "55Pellentesque condimentum interdum enim, porttitor ser auctor dui semper vel. Ut ullamcorper sapien eu ligula facilisis, interdum dapibus dui.",
+        "content": "<p>55Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p><h2>Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nun.</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p>",
+        "categories": ["Lifestyle", "Gear"],
+        "isFeatured": false,
+        "author": "55Andrew Kalagen",
+        "authorImage": "https://i.ibb.co/FW14QBS/pic-cat-05.png"
+    },
+    {
+        "image": "https://i.ibb.co/FW14QBS/pic-cat-05.png",
+        "title": "66Aliquam lobortis nec neque sit se set cost amet sagittisuisque.",
+        "excerpt": "66Pellentesque condimentum interdum enim, porttitor ser auctor dui semper vel. Ut ullamcorper sapien eu ligula facilisis, interdum dapibus dui.",
+        "content": "<p>66Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p><h2>Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nun.</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin nunc lectus, sed feugiat turpis blandit et. Cras sed pharetra neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce dui risus, feugiat convallis metus vitae, vehicula vestibulum tellus. Aliquam porta et nunc a tincidunt. Praesent ipsum mauris, semper non tincidunt sit amet, efficitur eget leo. Proin nec pellentesque ligula. Aenean ipsum orci, sodales id commodo eget, varius id lorem. Nam sollicitudin at mauris sit amet laoreet. Vestibulum nec purus neque.</p>",
+        "categories": ["Lifestyle", "Gear"],
+        "isFeatured": false,
+        "author": "66Andrew Kalagen",
+        "authorImage": "https://i.ibb.co/FW14QBS/pic-cat-05.png"
+    }
+]
